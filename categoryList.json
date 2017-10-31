@@ -1,0 +1,255 @@
+[
+    {
+        "id": 1,
+        "name": "Womwen's Clothing",
+        "subTitle": [],
+        "iconFile": null,
+        "themesColor": "#cd74e6",
+        "title": [
+            {
+                "id": 1,
+                "categoryId": null,
+                "name": "Sweater",
+                "subCategoryList": [
+                    {
+                        "id": 1,
+                        "name": "Cardigans",
+                        "categoryId": null,
+                        "title": null,
+                        "mainCategory": null,
+                        "subImage": null,
+                        "subImagePath": null,
+                        "mainCatKeyWord": null,
+                        "subCatKeyWord": null,
+                        "keyWord": null,
+                        "titleId": null
+                    },
+                    {
+                        "id": 2,
+                        "name": "Vests",
+                        "categoryId": null,
+                        "title": null,
+                        "mainCategory": null,
+                        "subImage": null,
+                        "subImagePath": null,
+                        "mainCatKeyWord": null,
+                        "subCatKeyWord": null,
+                        "keyWord": null,
+                        "titleId": null
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "categoryId": null,
+                "name": "Jacket",
+                "subCategoryList": []
+            },
+            {
+                "id": 3,
+                "categoryId": null,
+                "name": "Top&Tees",
+                "subCategoryList": []
+            },
+            {
+                "id": 4,
+                "categoryId": null,
+                "name": "Bottom",
+                "subCategoryList": []
+            },
+            {
+                "id": 13,
+                "categoryId": null,
+                "name": "Wedding & Event",
+                "subCategoryList": [
+                    {
+                        "id": 3,
+                        "name": "Wedding Dress",
+                        "categoryId": null,
+                        "title": null,
+                        "mainCategory": null,
+                        "subImage": null,
+                        "subImagePath": null,
+                        "mainCatKeyWord": null,
+                        "subCatKeyWord": null,
+                        "keyWord": null,
+                        "titleId": null
+                    },
+                    {
+                        "id": 4,
+                        "name": "Eventing Dress",
+                        "categoryId": null,
+                        "title": null,
+                        "mainCategory": null,
+                        "subImage": null,
+                        "subImagePath": null,
+                        "mainCatKeyWord": null,
+                        "subCatKeyWord": null,
+                        "keyWord": null,
+                        "titleId": null
+                    },
+                    {
+                        "id": 5,
+                        "name": "Flower Girl Dress",
+                        "categoryId": null,
+                        "title": null,
+                        "mainCategory": null,
+                        "subImage": null,
+                        "subImagePath": null,
+                        "mainCatKeyWord": null,
+                        "subCatKeyWord": null,
+                        "keyWord": null,
+                        "titleId": null
+                    }
+                ]
+            }
+        ],
+        "subcategory": [],
+        "productList": [],
+        "iconImagePath": "/Images/Category/14641501839683_icon1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Men's Clothing",
+        "subTitle": [],
+        "iconFile": null,
+        "themesColor": "#4986e7",
+        "title": [
+            {
+                "id": 5,
+                "categoryId": null,
+                "name": "Jacket and coats",
+                "subCategoryList": []
+            },
+            {
+                "id": 6,
+                "categoryId": null,
+                "name": "Plant",
+                "subCategoryList": []
+            },
+            {
+                "id": 7,
+                "categoryId": null,
+                "name": "Shirt",
+                "subCategoryList": []
+            }
+        ],
+        "subcategory": [],
+        "productList": [],
+        "iconImagePath": "/Images/Category/14745842868501_icon2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Computer and Office",
+        "subTitle": [],
+        "iconFile": null,
+        "themesColor": "#42d692",
+        "title": [
+            {
+                "id": 8,
+                "categoryId": null,
+                "name": "Laptop",
+                "subCategoryList": [
+                    {
+                        "id": 6,
+                        "name": "Dell",
+                        "categoryId": null,
+                        "title": null,
+                        "mainCategory": null,
+                        "subImage": null,
+                        "subImagePath": null,
+                        "mainCatKeyWord": null,
+                        "subCatKeyWord": null,
+                        "keyWord": null,
+                        "titleId": null
+                    },
+                    {
+                        "id": 7,
+                        "name": "Asus",
+                        "categoryId": null,
+                        "title": null,
+                        "mainCategory": null,
+                        "subImage": null,
+                        "subImagePath": null,
+                        "mainCatKeyWord": null,
+                        "subCatKeyWord": null,
+                        "keyWord": null,
+                        "titleId": null
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "categoryId": null,
+                "name": "External Stroage",
+                "subCategoryList": []
+            },
+            {
+                "id": 10,
+                "categoryId": null,
+                "name": "Office Electronic",
+                "subCategoryList": []
+            }
+        ],
+        "subcategory": [],
+        "productList": [],
+        "iconImagePath": "/Images/Category/14889482756821_icon7.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Jewelry & Accessories",
+        "subTitle": [],
+        "iconFile": null,
+        "themesColor": "#ffad46",
+        "title": [],
+        "subcategory": [],
+        "productList": [],
+        "iconImagePath": "/Images/Category/14960535578187_icon9.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Home & Garden",
+        "subTitle": [],
+        "iconFile": null,
+        "themesColor": "#a47ae2",
+        "title": [
+            {
+                "id": 11,
+                "categoryId": null,
+                "name": "Kicken & Dining",
+                "subCategoryList": []
+            },
+            {
+                "id": 12,
+                "categoryId": null,
+                "name": "Bathroom Product",
+                "subCategoryList": []
+            }
+        ],
+        "subcategory": [],
+        "productList": [],
+        "iconImagePath": "/Images/Category/15704479927289_icon6.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Sport & Entertainment",
+        "subTitle": [],
+        "iconFile": null,
+        "themesColor": "#ff7537",
+        "title": [],
+        "subcategory": [],
+        "productList": [],
+        "iconImagePath": "/Images/Category/15747913176514_icon5.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Home Improvement",
+        "subTitle": [],
+        "iconFile": null,
+        "themesColor": "#92e1c0",
+        "title": [],
+        "subcategory": [],
+        "productList": [],
+        "iconImagePath": "/Images/Category/15822445101251_icon4.jpg"
+    }
+]
