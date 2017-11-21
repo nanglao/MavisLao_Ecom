@@ -1,0 +1,22 @@
+[
+    {
+        "id": 4,
+        "dealAdsTypeId": null,
+        "startTime": null,
+        "endTime": null,
+        "price": 100000,
+        "welcomePagePrice": null,
+        "startDateTime": 1511256600000,
+        "endDateTime": 1517391000000,
+        "productId": null,
+        "welcomeStatus": false,
+        "discountPrice": 90000,
+        "welcomePageStatus": null,
+        "productName": "Rose Lady",
+        "productImagePath": "/Images/Supplier/Product/18248596747589_32426540166937_wr2.jpg",
+        "status": null,
+        "supplierId": null,
+        "supplierNo": null,
+        "discPercentage": 10
+    }
+]
